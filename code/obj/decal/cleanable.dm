@@ -31,7 +31,7 @@ proc/make_cleanable(var/type,var/loc)
 	var/last_dry_start = 0
 	var/dry_time = 100
 
-	flags = NOSPLASH | FPRINT
+	flags = NOSPLASH
 	layer = DECAL_LAYER
 
 	plane = PLANE_NOSHADOW_BELOW
@@ -238,9 +238,9 @@ proc/make_cleanable(var/type,var/loc)
 					src.last_color = add_color
 
 				if (length(src.overlays) >= 4) //stop adding more overlays you're lagging client FPS!!!!
-					src.UpdateOverlays(new_overlay, "cleanablefinal")
+					src.AddOverlays(new_overlay, "cleanablefinal")
 				else
-					src.UpdateOverlays(new_overlay, "cleanble[length(src.overlays)]")
+					src.AddOverlays(new_overlay, "cleanble[length(src.overlays)]")
 
 #define DRY_BLOOD 1
 #define FRESH_BLOOD -1
@@ -407,8 +407,8 @@ var/list/blood_decal_violent_icon_states = list("floor1", "floor2", "floor3", "f
 
 /obj/decal/cleanable/blood/dynamic
 	desc = "It's blood."
-	icon_state = "blank" // if you make any more giant white cumblobs all over my nice blood decals
-	random_icon_states = null // I swear to god I will fucking end you
+	icon_state = "blank"
+	random_icon_states = null
 	slippery = 0 // increases as blood volume does
 	color = null
 	var/last_volume = 1
@@ -429,7 +429,7 @@ var/list/blood_decal_violent_icon_states = list("floor1", "floor2", "floor3", "f
 				break
 			working_image.color = "#3399FF"
 			working_image.alpha = 100
-			B.UpdateOverlays(working_image, i)
+			B.AddOverlays(working_image, i)
 
 		..(B)
 
@@ -639,53 +639,6 @@ var/list/blood_decal_violent_icon_states = list("floor1", "floor2", "floor3", "f
 	can_sample = 1
 	sample_reagent = "ketchup"
 
-
-/obj/decal/cleanable/pathogen_sweat
-	name = "weirdly colored sweat"
-	desc = "Ew, better not step in this stuff."
-	icon = 'icons/obj/decals/blood/blood.dmi'
-	icon_state = "floor1"
-	random_icon_states = list("floor1", "floor2", "floor3", "floor4", "floor5", "floor6", "floor7")
-	color = "#12b828"
-	slippery = 5
-	can_sample = 1
-	sample_reagent = "pathogen"
-	can_dry = 1
-	can_fluid_absorb = 0
-
-	Crossed(atom/movable/AM)
-		. = ..()
-		if(prob(4))
-			src.reagents.reaction(AM, TOUCH)
-
-/obj/decal/cleanable/pathogen_cloud
-	name = "disease particles"
-	desc = "The air in that particular area gives you a bad vibe."
-	icon = 'icons/obj/decals/blood/blood.dmi'
-	icon_state = "pathogen_cloud"
-	color = "#12b828"
-	slippery = 5
-	can_sample = 1
-	sample_reagent = "pathogen"
-	can_dry = 1
-	can_fluid_absorb = 0
-
-	Crossed(atom/movable/AM)
-		. = ..()
-		if(!ishuman(AM))
-			return
-
-		var/mob/living/carbon/human/H = AM
-		var/chance = 10
-		if(H.wear_mask)
-			chance *= H.wear_mask.path_prot
-		if(H.head)
-			chance *= H.head.path_prot
-
-		if(prob(chance))
-			src.reagents.reaction(AM, INGEST)
-
-
 /obj/decal/cleanable/paper
 	name = "paper"
 	desc = "Ripped up little flecks of paper."
@@ -708,6 +661,13 @@ var/list/blood_decal_violent_icon_states = list("floor1", "floor2", "floor3", "f
 	icon = 'icons/obj/decals/cleanables.dmi'
 	icon_state = "leaves"
 	random_dir = EAST
+
+/obj/decal/cleanable/wood_debris
+	name = "wood debris"
+	desc = "A few scattered pieces of wood that broke off something bigger."
+	icon = 'icons/obj/decals/cleanables.dmi'
+	icon_state = "wood"
+	random_dir = NORTH
 
 /obj/decal/cleanable/rust
 	name = "rust"
@@ -1525,7 +1485,7 @@ var/list/blood_decal_violent_icon_states = list("floor1", "floor2", "floor3", "f
 			var/turf/T = get_turf(src)
 			while (burn_time > 0)
 				if (loc == T && !disposed && on_fire)
-					fireflash_melting(T, 0, T0C + 3100, 0)
+					fireflash(T, 0, T0C + 3100, 0, chemfire = CHEM_FIRE_WHITE)
 					if (burn_time <= 2)
 						for (var/D in cardinal)
 							var/turf/Q = get_step(T, D)
@@ -1569,7 +1529,7 @@ var/list/blood_decal_violent_icon_states = list("floor1", "floor2", "floor3", "f
 				on_fire = null
 				burn_time = initial(burn_time)
 
-	temperature_expose(datum/gas_mixture/air, exposed_temperature, exposed_volume)
+	temperature_expose(datum/gas_mixture/air, exposed_temperature, exposed_volume, cannot_be_cooled = FALSE)
 		if (exposed_temperature >= T0C + 473)
 			ignite()
 		..()
@@ -1759,3 +1719,19 @@ var/list/blood_decal_violent_icon_states = list("floor1", "floor2", "floor3", "f
 	desc = "What a mess..."
 	plane = PLANE_DEFAULT //needs to go on desks
 	layer = OBJ_LAYER
+
+/obj/decal/cleanable/thermite
+	name = "thermite powder"
+	icon = 'icons/effects/effects.dmi'
+	icon_state = "thermite"
+	mouse_opacity = FALSE
+	can_fluid_absorb = FALSE
+	sample_reagent = "thermite"
+
+	New(loc)
+		..()
+		SPAWN(1) //if we're being spawned manually we won't have our thermite amount set up so just Assume
+			if (!src.reagents?.has_reagent("thermite"))
+				if (!src.reagents)
+					src.create_reagents(src.sample_amt)
+				src.reagents.add_reagent("thermite", src.sample_amt)
