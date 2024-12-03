@@ -49,6 +49,9 @@
 		seal_hair = 0
 
 /obj/item/clothing/head/helmet/space/emerg
+	body_parts_covered = HEAD
+	compatible_species = list("human", "cow", "werewolf", "flubber", "martian", "blob")
+	see_face = TRUE
 	name = "emergency hood"
 	icon_state = "emerg"
 	item_state = "emerg"
@@ -57,6 +60,8 @@
 	hides_from_examine = C_EARS|C_MASK|C_GLASSES
 	seal_hair = 1
 	acid_survival_time = 3 MINUTES
+	duration_remove = 1.5 SECONDS
+	duration_put = 1.5 SECONDS
 
 	setupProperties()
 		..()
@@ -64,6 +69,9 @@
 		setProperty("disorient_resist_eye", 9)
 		setProperty("disorient_resist_ear", 5)
 		setProperty("space_movespeed", 0.5)
+		setProperty("coldprot", 10)
+		setProperty("heatprot", 5)
+		setProperty("meleeprot_head", 1)
 
 /obj/item/clothing/head/helmet/space/engineer
 	name = "engineering space helmet"
