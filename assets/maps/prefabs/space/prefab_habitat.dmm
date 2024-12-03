@@ -249,7 +249,7 @@
 "M" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/storage/toolbox/mechanical,

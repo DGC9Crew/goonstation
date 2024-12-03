@@ -161,7 +161,7 @@
 	icon_state = "1-2"
 	},
 /obj/rack,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/decal/stripe_caution,
 /turf/simulated/floor/airless,
 /area/space)
@@ -1218,7 +1218,7 @@
 "aeu" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/storage/toolbox/mechanical,
@@ -3408,7 +3408,7 @@
 "amj" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -3895,7 +3895,7 @@
 "anI" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/cable{
@@ -13637,7 +13637,7 @@
 "bcP" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/machinery/light/small{
@@ -14145,7 +14145,7 @@
 "bfo" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/storage/toolbox/mechanical,
@@ -14178,7 +14178,7 @@
 "bfr" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -14871,7 +14871,7 @@
 "bix" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -20359,7 +20359,7 @@
 "bFz" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -20478,7 +20478,7 @@
 "bFS" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/storage/toolbox/mechanical,
@@ -40218,7 +40218,7 @@
 "jpB" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -41865,7 +41865,7 @@
 "kCR" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/storage/belt/utility,
@@ -42924,7 +42924,7 @@
 "lrk" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -43126,7 +43126,7 @@
 "lvJ" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/storage/toolbox/mechanical,
@@ -47125,7 +47125,7 @@
 "oup" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -47975,7 +47975,7 @@
 "pgU" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -48294,7 +48294,7 @@
 "pqx" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -52731,7 +52731,7 @@
 "szl" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,

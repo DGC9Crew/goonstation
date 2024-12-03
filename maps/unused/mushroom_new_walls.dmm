@@ -20057,7 +20057,7 @@
 /obj/machinery/light/small/sticky/frostedred,
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/mini_oxygen,
 /turf/simulated/floor/plating,
@@ -23886,7 +23886,7 @@
 "kja" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -25845,8 +25845,8 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/gas/emergency,
 /obj/item/clothing/mask/gas/emergency,
 /turf/simulated/floor/neutral,
@@ -32526,7 +32526,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -40591,7 +40591,7 @@
 "xUF" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,

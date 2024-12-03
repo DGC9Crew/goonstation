@@ -971,7 +971,7 @@
 /turf/simulated/floor/caution/westeast,
 /area/prefab/silverglass/bay)
 "IC" = (
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 7;
 	pixel_y = 11
 	},

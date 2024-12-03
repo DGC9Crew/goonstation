@@ -132,7 +132,7 @@
 "at" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/machinery/light/small{
 	dir = 8;
 	pixel_x = -12

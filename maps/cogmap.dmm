@@ -13860,7 +13860,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -18391,7 +18391,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -22093,7 +22093,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -24071,7 +24071,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -24097,7 +24097,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -25181,7 +25181,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -37546,11 +37546,11 @@
 	pixel_x = 13;
 	pixel_y = -2
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 12;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 13;
 	pixel_y = -1
 	},
@@ -44588,7 +44588,7 @@
 "hZQ" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/crowbar,
@@ -44611,7 +44611,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -53847,7 +53847,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -57497,7 +57497,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -59775,7 +59775,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},
@@ -63226,7 +63226,7 @@
 	pixel_x = 5;
 	pixel_y = 1
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 5;
 	pixel_y = 10
 	},

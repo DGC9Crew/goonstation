@@ -13767,7 +13767,7 @@
 /obj/decal/cleanable/blood/tracks{
 	dir = 10
 	},
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/unsimulated/floor/arctic/snow/ice,
 /area/lower_arctic/lower)
 "bfF" = (
@@ -21908,7 +21908,7 @@
 "bKb" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /turf/unsimulated/floor,
@@ -46110,7 +46110,7 @@
 "dkk" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/magic_lantern{

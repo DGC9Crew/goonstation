@@ -609,7 +609,7 @@ ABSTRACT_TYPE(/datum/supply_packs)
 	/obj/item/clothing/mask/gas = 4,
 	/obj/item/tank/mini_oxygen = 4,
 	/obj/item/tank/air = 2,
-	/obj/item/clothing/head/emerg = 4,
+	/obj/item/clothing/head/helmet/space/emerg = 4,
 	/obj/item/clothing/suit/space/emerg = 4)
 	cost = PAY_TRADESMAN*2
 	containertype = /obj/storage/crate/internals

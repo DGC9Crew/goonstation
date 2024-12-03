@@ -2726,7 +2726,7 @@
 /area/dank_trench)
 "ib" = (
 /obj/rack,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/decal/cleanable/dirt/jen,
 /turf/unsimulated/floor/grime,
 /area/dank_trench)

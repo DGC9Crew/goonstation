@@ -40,7 +40,7 @@
 	pixel_y = -6;
 	pixel_x = 4
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},

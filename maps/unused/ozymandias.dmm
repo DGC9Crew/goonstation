@@ -1163,7 +1163,7 @@
 /area/station/hallway/primary/east)
 "apE" = (
 /obj/storage/crate/internals{
-	spawn_contents = list(/obj/item/clothing/mask/gas=2,/obj/item/tank/emergency_oxygen=1,/obj/item/tank/air=1,/obj/item/clothing/head/emerg=2,/obj/item/clothing/suit/space/emerg=2)
+	spawn_contents = list(/obj/item/clothing/mask/gas=2,/obj/item/tank/emergency_oxygen=1,/obj/item/tank/air=1,/obj/item/clothing/head/helmet/space/emerg=2,/obj/item/clothing/suit/space/emerg=2)
 	},
 /turf/simulated/floor,
 /area/station/hangar/qm)
@@ -4563,7 +4563,7 @@
 "blU" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -11062,7 +11062,7 @@
 "cYW" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -13969,7 +13969,7 @@
 "dNK" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -16648,7 +16648,7 @@
 "evN" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -17710,7 +17710,7 @@
 "eJY" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -18114,7 +18114,7 @@
 "eOv" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -21572,7 +21572,7 @@
 "fKX" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -22111,7 +22111,7 @@
 "fSq" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/breath,
 /turf/simulated/floor/grime,
@@ -22473,7 +22473,7 @@
 "fXS" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -24283,7 +24283,7 @@
 	icon_state = "1-2"
 	},
 /obj/rack,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/decal/stripe_caution,
 /turf/simulated/floor/airless,
 /area/space)
@@ -40083,7 +40083,7 @@
 "kDj" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -40618,7 +40618,7 @@
 "kJK" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -42075,7 +42075,7 @@
 "lem" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -46713,7 +46713,7 @@
 "mlU" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -47269,7 +47269,7 @@
 "mth" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -47419,7 +47419,7 @@
 /area/station/maintenance/west)
 "muJ" = (
 /obj/storage/crate/internals{
-	spawn_contents = list(/obj/item/clothing/mask/gas=2,/obj/item/tank/emergency_oxygen=1,/obj/item/tank/air=1,/obj/item/clothing/head/emerg=2,/obj/item/clothing/suit/space/emerg=2)
+	spawn_contents = list(/obj/item/clothing/mask/gas=2,/obj/item/tank/emergency_oxygen=1,/obj/item/tank/air=1,/obj/item/clothing/head/helmet/space/emerg=2,/obj/item/clothing/suit/space/emerg=2)
 	},
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/southwest)
@@ -52365,7 +52365,7 @@
 "nOs" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -57677,7 +57677,7 @@
 "pgE" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -59224,7 +59224,7 @@
 "pAY" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/emergency_oxygen,
 /obj/item/clothing/mask/breath,
 /turf/simulated/floor/plating,
@@ -60179,7 +60179,7 @@
 "pMB" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -65919,7 +65919,7 @@
 "rnr" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -66693,7 +66693,7 @@
 "rxL" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -67766,7 +67766,7 @@
 "rMh" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -68632,7 +68632,7 @@
 "rVd" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -71719,7 +71719,7 @@
 "sHK" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -79356,7 +79356,7 @@
 "uBw" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -80094,7 +80094,7 @@
 "uJB" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/oxygen,
 /obj/item/device/light/flashlight,
@@ -81811,7 +81811,7 @@
 "vdr" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -84203,7 +84203,7 @@
 "vFP" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -84852,7 +84852,7 @@
 "vNM" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -85233,7 +85233,7 @@
 "vSs" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,

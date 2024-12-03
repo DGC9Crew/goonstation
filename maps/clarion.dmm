@@ -553,7 +553,7 @@
 "abz" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /turf/simulated/floor/black,
@@ -8160,7 +8160,7 @@
 "baL" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/breath,
 /obj/item/device/light/flashlight,
@@ -16573,7 +16573,7 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/device/light/glowstick,
 /obj/item/device/light/glowstick,
 /obj/cable{
@@ -27193,7 +27193,7 @@
 "mjp" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -37861,7 +37861,7 @@
 "ugi" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,

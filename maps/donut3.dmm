@@ -10,7 +10,7 @@
 	pixel_x = 4;
 	pixel_y = -4
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -42,7 +42,7 @@
 	pixel_x = 4;
 	pixel_y = -4
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -1326,7 +1326,7 @@
 	pixel_x = -2;
 	pixel_y = -3
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -17732,7 +17732,7 @@
 "fnh" = (
 /obj/decal/tile_edge/stripe/extra_big,
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -17787,7 +17787,7 @@
 "fnO" = (
 /obj/decal/tile_edge/stripe/extra_big,
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -19639,7 +19639,7 @@
 	dir = 4
 	},
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -30820,7 +30820,7 @@
 	dir = 6
 	},
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -46495,7 +46495,7 @@
 	pixel_x = 4;
 	pixel_y = -4
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -47576,7 +47576,7 @@
 	pixel_x = -2;
 	pixel_y = -3
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -62673,7 +62673,7 @@
 	pixel_x = 4;
 	pixel_y = -4
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -68296,7 +68296,7 @@
 	pixel_x = 4;
 	pixel_y = -4
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},
@@ -75408,7 +75408,7 @@
 	pixel_x = -2;
 	pixel_y = -3
 	},
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 1;
 	pixel_y = 10
 	},

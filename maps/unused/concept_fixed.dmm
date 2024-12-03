@@ -22119,7 +22119,7 @@
 	icon_state = "tabledir";
 	dir = 9
 	},
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /turf/simulated/floor,
 /area/space)

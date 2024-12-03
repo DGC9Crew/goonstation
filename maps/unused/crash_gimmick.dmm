@@ -1925,7 +1925,7 @@
 /area/russian/radiation)
 "aOo" = (
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/reagent_containers/food/drinks/fueltank,
@@ -10542,7 +10542,7 @@
 "bAs" = (
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/escape{
 	broken = 1;
 	desc = " It is made of steel.";
@@ -10778,7 +10778,7 @@
 	},
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/escape{
 	broken = 1;
 	desc = " It is made of steel.";
@@ -11093,7 +11093,7 @@
 	},
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/escape{
 	broken = 1;
 	desc = " It is made of steel.";
@@ -11109,7 +11109,7 @@
 	},
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/escape{
 	burnt = 1;
 	desc = " It is made of steel.";
@@ -13259,7 +13259,7 @@
 /obj/table/auto,
 /obj/item/crowbar,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/gas/emergency,
 /turf/simulated/floor/plating/random{
@@ -13564,7 +13564,7 @@
 "bRJ" = (
 /obj/table/auto,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/gas/emergency,
 /obj/cable{
 	icon_state = "0-2"
@@ -15288,7 +15288,7 @@
 /obj/cable{
 	icon_state = "0-2"
 	},
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/gas/emergency,
 /obj/item/tank/air,
 /obj/item/clothing/suit/space/emerg,
@@ -21436,7 +21436,7 @@
 "czK" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -21457,7 +21457,7 @@
 "czL" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -21676,8 +21676,8 @@
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/black{
 	broken = 1;
 	desc = " It is made of steel.";
@@ -25903,8 +25903,8 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/storage/toolbox/mechanical,
 /obj/item/clothing/mask/breath,
 /obj/item/extinguisher,
@@ -35932,7 +35932,7 @@
 	dir = 1
 	},
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/suit/space/emerg,
@@ -35944,17 +35944,17 @@
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/mask/breath,
@@ -36133,7 +36133,7 @@
 /area/shuttle/arrival/station)
 "dPV" = (
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/suit/space/emerg,
@@ -36146,14 +36146,14 @@
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/mask/breath,
@@ -36288,7 +36288,7 @@
 /area/shuttle/arrival/station)
 "dSO" = (
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/suit/space/emerg,
@@ -36300,17 +36300,17 @@
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/mask/breath,
@@ -40550,7 +40550,7 @@
 	},
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/plating{
 	desc = " It is made of steel.";
 	name = "steel plating"
@@ -42464,7 +42464,7 @@
 /area/russian/radiation)
 "gZZ" = (
 /obj/storage/closet/biohazard,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/machinery/alarm{
 	pixel_y = 20
 	},
@@ -49050,12 +49050,12 @@
 "kmi" = (
 /obj/table/auto,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /turf/simulated/floor/plating{
 	desc = " It is made of steel.";
@@ -53968,7 +53968,7 @@
 	},
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor{
 	burnt = 1;
 	desc = " It is made of steel.";
@@ -59533,7 +59533,7 @@
 "plA" = (
 /obj/table/auto,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/breath,
 /obj/machinery/atmospherics/pipe/simple/color_pipe/cyan_pipe{
@@ -63483,7 +63483,7 @@
 "rgw" = (
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/gloves/yellow,
 /obj/decal/cleanable/dirt,
@@ -64274,7 +64274,7 @@
 	},
 /area/russian/radiation)
 "rzR" = (
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/fakeobject/skeleton{
 	desc = "still has his... uh... bedsheet?";
 	icon = 'icons/misc/hstation.dmi';
@@ -66931,7 +66931,7 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/disposalpipe/segment/bent/south,
 /turf/simulated/floor/plating/random{
 	broken = 1;
@@ -67852,7 +67852,7 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/plasma,
 /turf/simulated/floor/caution/north{
 	broken = 1;
@@ -68937,7 +68937,7 @@
 /obj/decal/cleanable/dirt,
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/space,
 /area/russian/radiation)
 "tUy" = (
@@ -72272,7 +72272,7 @@
 /obj/item/reagent_containers/food/drinks/milk/rancid,
 /obj/item/reagent_containers/food/snacks/candy/nougat,
 /obj/item/suture,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/plating/random{
 	desc = " It is made of steel.";
 	name = "steel plating"

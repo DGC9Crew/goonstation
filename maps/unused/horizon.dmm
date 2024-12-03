@@ -7116,7 +7116,7 @@
 "avT" = (
 /obj/machinery/light,
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/reagent_containers/food/drinks/fueltank,
@@ -9053,7 +9053,7 @@
 	dir = 1
 	},
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
 /turf/unsimulated/floor/shuttle,
@@ -9174,7 +9174,7 @@
 /area/space)
 "aCp" = (
 /obj/storage/closet/emergency,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
 /turf/unsimulated/floor/shuttle,
@@ -11148,7 +11148,7 @@
 /obj/table/auto,
 /obj/item/crowbar,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/gas/emergency,
 /turf/simulated/floor/plating/random,
@@ -15321,8 +15321,8 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/storage/toolbox/mechanical,
 /obj/item/clothing/mask/breath,
 /obj/item/extinguisher,
@@ -20599,12 +20599,12 @@
 "bhq" = (
 /obj/table/auto,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /turf/simulated/floor/plating,
 /area/station/maintenance/south)
@@ -26710,7 +26710,7 @@
 "bzl" = (
 /obj/table/auto,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/breath,
 /obj/machinery/atmospherics/pipe/simple/color_pipe/cyan_pipe{
@@ -28064,7 +28064,7 @@
 /area/station/hallway/secondary/exit)
 "bDw" = (
 /obj/storage/closet/biohazard,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/machinery/alarm{
 	pixel_y = 20
 	},
@@ -29975,7 +29975,7 @@
 	},
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/plating,
 /area/station/maintenance/southwest)
 "bJd" = (
@@ -30851,7 +30851,7 @@
 	pixel_x = -10
 	},
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/gloves/yellow,
 /obj/decal/cleanable/dirt,
@@ -33787,7 +33787,7 @@
 /obj/decal/cleanable/dirt,
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/shuttle{
 	icon_state = "floor3"
 	},
@@ -34473,7 +34473,7 @@
 	},
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor,
 /area/station/hangar/sec)
 "bVY" = (
@@ -40753,7 +40753,7 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/outer/se)
 "cmT" = (
@@ -41956,7 +41956,7 @@
 /obj/item/reagent_containers/food/drinks/milk/rancid,
 /obj/item/reagent_containers/food/snacks/candy/nougat,
 /obj/item/suture,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/plating/random,
 /area/station/crew_quarters/barber_shop)
 "cqn" = (
@@ -45565,7 +45565,7 @@
 /obj/cable{
 	icon_state = "0-2"
 	},
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/gas/emergency,
 /obj/item/tank/air,
 /obj/item/clothing/suit/space/emerg,
@@ -45900,8 +45900,8 @@
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/black,
 /area/station/science/testchamber)
 "cDh" = (
@@ -46231,7 +46231,7 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/mask/breath,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/plasma,
 /turf/simulated/floor/caution/north,
 /area/station/hangar/engine)
@@ -49311,7 +49311,7 @@
 /turf/simulated/floor,
 /area/station/hallway/secondary/entry)
 "hKo" = (
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/fakeobject/skeleton{
 	desc = "still has his... uh... bedsheet?";
 	icon = 'icons/misc/hstation.dmi';
@@ -52717,7 +52717,7 @@
 	pixel_x = -10
 	},
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/mini_oxygen,
 /turf/simulated/floor/escape{
 	dir = 8
@@ -53146,7 +53146,7 @@
 "nUL" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -54042,7 +54042,7 @@
 	},
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/escape{
 	dir = 4
 	},
@@ -54543,7 +54543,7 @@
 	},
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/mini_oxygen,
 /turf/simulated/floor/escape{
 	dir = 8
@@ -55581,7 +55581,7 @@
 "rQe" = (
 /obj/storage/closet/emergency,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/mini_oxygen,
 /turf/simulated/floor/escape{
 	dir = 9
@@ -55979,7 +55979,7 @@
 "szh" = (
 /obj/table/auto,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/gas/emergency,
 /obj/cable{
 	icon_state = "0-2"
@@ -58901,7 +58901,7 @@
 "wWH" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,

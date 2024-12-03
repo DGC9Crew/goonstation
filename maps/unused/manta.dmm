@@ -26778,7 +26778,7 @@
 "bxv" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/emergency_oxygen,
 /obj/machinery/camera{
@@ -37669,7 +37669,7 @@
 "nwG" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/emergency_oxygen,
 /obj/machinery/light/incandescent/netural{

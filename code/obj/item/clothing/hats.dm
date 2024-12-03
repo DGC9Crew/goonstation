@@ -119,23 +119,6 @@ proc/filter_trait_hats(var/type)
 		..()
 		setProperty("meleeprot_head", 2)
 
-/obj/item/clothing/head/emerg
-	name = "emergency hood"
-	icon_state = "emerg"
-	item_state = "emerg"
-	c_flags = SPACEWEAR | COVERSEYES | COVERSMOUTH | BLOCKCHOKE
-	desc = "Helps protect from vacuum for a short period of time."
-	hides_from_examine = C_EARS|C_MASK|C_GLASSES
-	seal_hair = 1
-	acid_survival_time = 3 MINUTES
-
-	setupProperties()
-		..()
-		setProperty("chemprot", 15)
-		setProperty("disorient_resist_eye", 9)
-		setProperty("disorient_resist_ear", 5)
-		setProperty("space_movespeed", 0.5)
-
 /obj/item/clothing/head/emerg/science
 	name = "bomb retreival hood"
 	desc = "A suit that protects against low pressure environments for a short time. Given to science since they blew up the more expensive ones."

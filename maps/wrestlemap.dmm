@@ -7774,7 +7774,7 @@
 "dxe" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -14831,7 +14831,7 @@
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 9;
 	pixel_y = 4
 	},
@@ -20304,7 +20304,7 @@
 /obj/item/device/light/flashlight,
 /obj/item/clothing/suit/space/emerg,
 /obj/machinery/light,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 9;
 	pixel_y = 4
 	},
@@ -21671,7 +21671,7 @@
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 9;
 	pixel_y = 4
 	},
@@ -23816,7 +23816,7 @@
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 9;
 	pixel_y = 4
 	},
@@ -27463,7 +27463,7 @@
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 9;
 	pixel_y = 4
 	},
@@ -32324,7 +32324,7 @@
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 9;
 	pixel_y = 4
 	},
@@ -33158,7 +33158,7 @@
 "oAt" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /turf/simulated/floor/plating,
@@ -37682,7 +37682,7 @@
 "qDi" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
@@ -41732,7 +41732,7 @@
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 9;
 	pixel_y = 4
 	},
@@ -49669,7 +49669,7 @@
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg{
+/obj/item/clothing/head/helmet/space/emerg{
 	pixel_x = 9;
 	pixel_y = 4
 	},

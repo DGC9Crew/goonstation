@@ -592,7 +592,7 @@ else if (istype(JOB, /datum/job/security/security_officer))\
 		#else
 		var/obj/item/clothing/suit/space/emerg/SSS = new /obj/item/clothing/suit/space/emerg(src.loc)
 		src.force_equip(SSS, SLOT_IN_BACKPACK, TRUE)
-		var/obj/item/clothing/head/emerg/SHS = new /obj/item/clothing/head/emerg(src.loc)
+		var/obj/item/clothing/head/helmet/space/emerg/SHS = new /obj/item/clothing/head/helmet/space/emerg(src.loc)
 		src.force_equip(SHS, SLOT_IN_BACKPACK, TRUE)
 		#endif
 		src.equip_new_if_possible(/obj/item/clothing/mask/breath, SLOT_WEAR_MASK)

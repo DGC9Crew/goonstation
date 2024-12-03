@@ -9017,7 +9017,7 @@
 /obj/rack,
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/breath,
 /obj/machinery/light/incandescent/cool,
@@ -13615,7 +13615,7 @@
 /area/abandonedmedicalship/robot_trader)
 "aUY" = (
 /obj/table/auto,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/grime,
 /area/iss)
 "aUZ" = (
@@ -18986,7 +18986,7 @@
 "bsy" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/breath,
 /turf/simulated/floor,

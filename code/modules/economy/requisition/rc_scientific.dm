@@ -805,7 +805,7 @@ ABSTRACT_TYPE(/datum/rc_entry/item/organ)
 			if("emergency space suit set")
 				count *= 2
 				rewardthing1 = /obj/item/clothing/suit/space/emerg
-				rewardthing2 = /obj/item/clothing/head/emerg
+				rewardthing2 = /obj/item/clothing/head/helmet/space/emerg
 			if("radiation suit set")
 				rewardthing1 = /obj/item/clothing/head/rad_hood
 				rewardthing2 = /obj/item/clothing/suit/hazard/rad

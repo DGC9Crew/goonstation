@@ -40028,7 +40028,7 @@
 	pixel_y = -12
 	},
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/oxygen,
 /obj/machinery/light/small{
 	dir = 4;
@@ -43405,7 +43405,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /turf/simulated/floor/purpleblack,
 /area/pasiphae)
 "suP" = (
@@ -46992,7 +46992,7 @@
 "tVn" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/gloves/latex,
 /obj/item/tank/air,
 /obj/item/clothing/mask/breath,
@@ -49004,7 +49004,7 @@
 "uQe" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/tank/air,
 /obj/item/clothing/mask/breath,
 /obj/machinery/light{
@@ -50239,7 +50239,7 @@
 "vvH" = (
 /obj/rack,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/helmet/space/emerg,
 /obj/item/clothing/mask/breath,
 /obj/item/tank/air,
 /obj/item/device/light/flashlight,
