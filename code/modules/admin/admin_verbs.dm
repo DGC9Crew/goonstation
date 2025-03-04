@@ -1666,9 +1666,9 @@ var/list/fun_images = list()
 		if(!istype(L) || isdead(L))
 			continue
 		var/obj/Pet = new pet_path(get_turf(L))
-		Pet.name = "[L]'s pet [Pet.name]"
+		Pet.name = "[Pet.name]"
 
-		//Pets should probably not attack their owner
+		//Pe2ts should probably not attack their owner
 		if (istype(Pet, /obj/critter))
 			var/obj/critter/CritterPet = Pet
 			CritterPet.atkcarbon = 0

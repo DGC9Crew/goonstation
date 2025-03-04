@@ -24836,7 +24836,6 @@
 	},
 /turf/simulated/floor/carpet/grime,
 /area/ghostdrone_factory)
-<<<<<<< HEAD
 "mgG" = (
 /obj/landmark/halloween,
 /obj/cable{
@@ -24850,14 +24849,12 @@
 /obj/table/reinforced/auto,
 /obj/item/clothing/suit/space/emerg,
 /obj/item/clothing/suit/space/emerg,
-/obj/item/clothing/head/helmet/space/emerg,
-/obj/item/clothing/head/helmet/space/emerg,
+/obj/item/clothing/head/emerg,
+/obj/item/clothing/head/emerg,
 /obj/item/clothing/mask/gas/emergency,
 /obj/item/clothing/mask/gas/emergency,
 /turf/simulated/floor/neutral,
 /area/station/storage/emergency)
-=======
->>>>>>> 22fe01754a605ce9167e4e1ccbb3a16de97f02da
 "mgZ" = (
 /obj/machinery/camera{
 	c_tag = "autotag";
